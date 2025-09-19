@@ -1,0 +1,14 @@
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\bin\Debug\net9.0\dio-sistema-de-hospedagem-hotel.exe
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\bin\Debug\net9.0\dio-sistema-de-hospedagem-hotel.deps.json
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\bin\Debug\net9.0\dio-sistema-de-hospedagem-hotel.runtimeconfig.json
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\bin\Debug\net9.0\dio-sistema-de-hospedagem-hotel.dll
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\bin\Debug\net9.0\dio-sistema-de-hospedagem-hotel.pdb
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.AssemblyInfoInputs.cache
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.AssemblyInfo.cs
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.dll
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\refint\dio-sistema-de-hospedagem-hotel.dll
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.pdb
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\dio-sistema-de-hospedagem-hotel.genruntimeconfig.cache
+D:\ProjetosGit\dio-sistema-de-hospedagem-hotel\obj\Debug\net9.0\ref\dio-sistema-de-hospedagem-hotel.dll
